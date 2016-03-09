@@ -1,4 +1,4 @@
-# ng2-book-finder
+# ng2-bookfinder-md
 
 ## Table of contents 
 1. [Introduction](#introduction)
@@ -10,7 +10,7 @@
 7. [Resources](#resources)
 
 ## Introduction 
-A very simple implementation of Book Search SPA using Angular 2. This SPA provides a search box to find ebooks by consuming REST end Point using Angular2 HTTP API and RXJS. REST API end-point is provided by [IT-eBooks-API](http://it-ebooks-api.info/)
+A very simple implementation of Book Search SPA using Angular 2 and Material Design. This SPA provides a search box to find ebooks by consuming REST end Point using Angular2 HTTP API and RXJS. REST API end-point is provided by [IT-eBooks-API](http://it-ebooks-api.info/)
 
 ##Prerequisites
 
