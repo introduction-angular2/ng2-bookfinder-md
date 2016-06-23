@@ -1,0 +1,9 @@
+.secondary {
+    color: red;
+}
+
+md-card {
+    margin: 16px;
+    width: 400px;
+  box-sizing: border-box;
+}
